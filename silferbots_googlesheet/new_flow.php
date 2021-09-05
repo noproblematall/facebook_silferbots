@@ -1,5 +1,5 @@
 <?php
-$token = '107526501118675.ZhxHSys_x3kR0hLhvoD0rfgxWR9ZMzOcoj4pX_EiXe-6TMMB-';
+$token = '--- Your token ----';
 $authorization = "X-SILFER-ACCESS-TOKEN: ".$token;
 
 $flow_id = '1605916067372';
